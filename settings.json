@@ -5,11 +5,11 @@
             "코드": 3,
             "이름": "1.0.3",
             "날짜": "2025년 8월 4일 오전 12시",
-            "패키지": "com.yeongseok.feelmusic",
-            "패키지주소": "com.yeongseok.feelmusic",
+            "패키지": "com.goodmusic.music",
+            "패키지주소": "com.goodmusic.music",
             "버전메세지": {
-                "all": "The following fixes have been made:\n\n1. Fixed an issue with loading earth music.",
-                "ko": "사용자 경험 ux 개선"
+                "all": "This app is no longer supported. Please click 'Update' to switch to the new app. We apologize for any inconvenience.",
+                "ko": "이 앱은 사용이 중지되었습니다. 업데이트를 클릭하여, 새로운 앱으로 이동해 주시면 감사하겠습니다. 이용에 불편을 드려 죄송합니다."
             }
         },
         "리뷰":{
